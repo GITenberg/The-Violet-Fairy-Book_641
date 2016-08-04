@@ -1,0 +1,48 @@
+_repo: The-Violet-Fairy-Book_641
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Title; Contents; Preface; A Tale Of The Tontlawald; The Finest Liar In
+  The World; The Story Of Three Wonderful Beggars; Schippeitaro; The Three Princes
+  And Their Beasts; The Goat's Ears Of The Emperor Trojan; The Nine Pea-hens And The
+  Golden Apples; The Lute Player; The Grateful Prince; The Child Who Came From An
+  Egg; Stan Bolovan; The Two Frogs; The Story Of A Gazelle; How A Fish Swam In The
+  Air And A Hare In The Water.; Two In A Sack; The Envious Neighbour; The Fairy Of
+  The Dawn; The Enchanted Knife; Jesper Who Herded The Hares; The Underground Workers;
+  The History Of Dwarf Long Nose.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Folklore'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: A tale of the Tontlawald -- The finest liar in the world -- The story
+  of three wonderful beggars -- Schippeitaro -- The three princes and their beasts
+  -- The goat's ears of the Emperor Trojan -- The nine pea-hens and the golden apples
+  -- The lute player -- The grateful prince -- The child who came from an egg -- Stan
+  Bolovan -- The two frogs -- The story of a gazelle -- How a fish swam in the air
+  and a hare in the water -- Two in a sack -- The envious neighbour -- The fairy of
+  the dawn -- The enchanted knife -- Jesper who herded the hares -- The underground
+  workers -- The history of Dwarf Long Nose -- The Nunda, eater of people -- The story
+  of Hassebu -- The maiden with the wooden helmet -- The monkey and the jelly-fish
+  -- The headless dwarfs -- The young man who would have his eyes opened -- The boys
+  with the golden stars -- The frog -- The princess who was hidden underground --
+  The girl who pretended to be a boy -- The story of Halfman -- The prince who wanted
+  to see the world -- Virgililus the sorcerer -- Mogarzea and his son.
+title: The Violet Fairy Book
+url: http://www.gutenberg.org/ebooks/641
