@@ -1,5 +1,8 @@
 _repo: The-Violet-Fairy-Book_641
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lang, Andrew
@@ -17,6 +20,8 @@ description: Title; Contents; Preface; A Tale Of The Tontlawald; The Finest Liar
   Air And A Hare In The Water.; Two In A Sack; The Envious Neighbour; The Fairy Of
   The Dawn; The Enchanted Knife; Jesper Who Herded The Hares; The Underground Workers;
   The History Of Dwarf Long Nose.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/641#The-Violet-Fairy-Book
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '1996-09-01'
 gutenberg_type: Text
